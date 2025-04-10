@@ -1,4 +1,3 @@
-<a href="https://www.buymeacoffee.com/mubeenahmad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="width: 130px;" ></a>
 
 # Simple Portfolio Website
 
@@ -37,10 +36,4 @@ Clone down this repository. You will need `git` installed globally on your machi
 
 Run this command to clone the repository: 
 
-    git clone https://github.com/muhammadmubeen17/simple-portfolio-website.git
-
-## **Show your support**
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/mubeenahmad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+    git clone mylink
